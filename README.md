@@ -1,7 +1,9 @@
 # diabetyk
 Symulator krzywej cukrowej
 
-Przykładowy użytkownik:
+Najpierw należy zaimportowac bazę danych na localhoscie z pliku diabetyk.sql , ewentualne parametry zmienić w pliku connect.php przechowującym informacje o parametrach do logowania do bazy danych
+
+Przykładowe dane do logowania:
 login:test
 hasło:qwerty
 
