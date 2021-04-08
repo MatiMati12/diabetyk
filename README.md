@@ -1,0 +1,2 @@
+# diabetyk
+Symulator krzywej cukrowej
